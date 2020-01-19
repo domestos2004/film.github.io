@@ -1,0 +1,19 @@
+body {
+  background-color: #F5F5F5;
+}
+
+#carouselExampleCaptions {
+  padding: 10px;
+  display: block;
+  width: 850px;
+  height: 370px !important;
+  margin: 0 auto;
+}
+
+.allfilm {
+  display: block;
+  display: block;
+  width: 200px;
+  height: 100px !important;
+  margin: 0 auto;
+}
